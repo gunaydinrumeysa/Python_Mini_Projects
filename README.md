@@ -1,2 +1,2 @@
 # Python_Mini_Projects
-Başlangıç seviye proje örneklerini içerir.
+Includes beginner level sample projects.
